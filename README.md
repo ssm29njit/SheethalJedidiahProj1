@@ -55,6 +55,16 @@ A branch is a parallel version of a repository. It is contained within the repos
   ![branch](https://user-images.githubusercontent.com/71558799/93671285-a97bd400-fa6f-11ea-9551-d72191af203c.png)
 
 
+## Git Commit
+A commit, or "revision", is an individual change to a file (or set of files). When you 
+make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that 
+allows you to keep record of the specific changes commited along with who made them and when. 
+Commits usually contain a commit message which is a brief description of what changes were made.
+
+![commit1](https://user-images.githubusercontent.com/71558799/93671440-03c96480-fa71-11ea-9f42-c8b82bf3895d.png)
+![commit2](https://user-images.githubusercontent.com/71558799/93671444-088e1880-fa71-11ea-8435-0935b7886666.png)
+![commit3](https://user-images.githubusercontent.com/71558799/93671449-0e83f980-fa71-11ea-8651-4d93a2374ea1.png)
+
 
 
 
