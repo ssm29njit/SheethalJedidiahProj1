@@ -65,6 +65,14 @@ Commits usually contain a commit message which is a brief description of what ch
 ![commit2](https://user-images.githubusercontent.com/71558799/93671444-088e1880-fa71-11ea-8435-0935b7886666.png)
 ![commit3](https://user-images.githubusercontent.com/71558799/93671449-0e83f980-fa71-11ea-8651-4d93a2374ea1.png)
 
+## Git Merge
+Merging takes the changes from one branch (in the same repository or from a fork), and applies 
+them into another. This often happens as a "pull request" (which can be thought of as a request to merge),
+ or via the command line. A merge can be done through a pull request via the GitHub.com web interface 
+ if there are no conflicting changes, or can always be done via the command line.
+![merge](https://user-images.githubusercontent.com/71558799/93671485-6c184600-fa71-11ea-9175-e668d37d9415.png)
+
+
 
 
 
