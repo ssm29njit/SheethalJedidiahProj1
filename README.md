@@ -167,7 +167,7 @@ This command shows which branch is automatically pushed to when you run git push
  with their remote-tracking branch when you run git pull.
  
 ![remoteshow](https://user-images.githubusercontent.com/71558799/93672319-0da29600-fa78-11ea-8239-ca8169f34f9c.png)
-
+![git-remote](https://user-images.githubusercontent.com/71558799/93672391-7be75880-fa78-11ea-9981-9d6bd54a5b0b.png)
 
 
 
