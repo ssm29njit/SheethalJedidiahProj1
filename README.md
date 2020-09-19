@@ -133,6 +133,31 @@ $ git remote -v
 
 ![Git-remote-add](https://user-images.githubusercontent.com/13598741/93671936-9a734100-fac4-11ea-961a-637b99a7956d.png)
 
+## Remote Remove
+To remove a remote, navigate to the directory your repository is stored at, and use the 
+git remote rm 
+(or git remote remove) command followed by the remote name:
+git remote rm <remote-name>
+Copy
+For example, to remove remote named testing, you would type:
+
+git remote rm testing
+git remote rm removes all references to the remote repository. It does not remove the 
+repository from 
+the remote server.
+
+To verify that the remote was successfully removed, use the git remote command to list the 
+remote connections:
+
+git remote -v  
+The output will look something like this:
+
+origin	https://github.com/user/repo_name.git (fetch)
+origin	https://github.com/user/repo_name.git (push)
+What the git remote rm command does is removing the entries about the remote repository
+ from the .git/config file.
+ 
+![image](https://user-images.githubusercontent.com/13598741/93672085-cd6a0480-fac5-11ea-9ffa-78c806163e0b.png)
 
 
 
