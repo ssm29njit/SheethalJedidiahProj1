@@ -169,6 +169,22 @@ This command shows which branch is automatically pushed to when you run git push
 ![remoteshow](https://user-images.githubusercontent.com/71558799/93672319-0da29600-fa78-11ea-8239-ca8169f34f9c.png)
 ![git-remote](https://user-images.githubusercontent.com/71558799/93672391-7be75880-fa78-11ea-9981-9d6bd54a5b0b.png)
 
+## Git Status
+A visual representation within a pull request that your commits meet the conditions set for the 
+repository you're contributing to.
+There are two types of status checks on GitHub:
+
+Checks
+Statuses
+Checks are different from statuses in that they provide line annotations, more detailed messaging,
+ and are only available for use with GitHub Apps.
+ Status: 
+ ![image](https://user-images.githubusercontent.com/71558799/93674703-b00f4900-fa79-11ea-85d0-37c73d533e12.png)
+ Checks:
+![image](https://user-images.githubusercontent.com/71558799/93674185-8524f500-fa79-11ea-9c8c-7d08cf13c921.png)
+
+
+
 
 
 
