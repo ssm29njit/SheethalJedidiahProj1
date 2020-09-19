@@ -110,6 +110,33 @@ That's why git pull is one of the most used Git commands.
 
 ![git push and pull](https://user-images.githubusercontent.com/13598741/93671810-c641f700-fac3-11ea-953d-5e7e5351089f.jpg)
 
+## Remote ADD
+To add a new remote, use the git remote add command on the terminal, 
+in the directory your repository is stored at.
+
+The git remote add command takes two arguments:
+
+A remote name, for example, origin
+A remote URL, for example, https://[hostname]/user/repo.git
+
+For example:
+
+For example:
+
+$ git remote add origin https://hostname/user/repo.git
+### Set a new remote
+
+$ git remote -v
+### Verify new remote
+> origin  https://hostname/user/repo.git (fetch)
+> origin  https://hostname/user/repo.git (push)
+
+![Git-remote-add](https://user-images.githubusercontent.com/13598741/93671936-9a734100-fac4-11ea-961a-637b99a7956d.png)
+
+
+
+
+
 
 
 
