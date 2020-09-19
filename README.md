@@ -34,4 +34,9 @@ lost when the next regular release occurs.
  You can also discuss and manage your project's work within the repository.
  ![repo](https://user-images.githubusercontent.com/71558799/93670753-b0084c80-fa6b-11ea-9a9b-3163ec5e7457.png)
  
+ ## Git Clone
+ To clone a repository means to duplicate and download 
+ everything in the repository.
+ 
+
  
