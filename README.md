@@ -73,6 +73,95 @@ them into another. This often happens as a "pull request" (which can be thought 
 ![merge](https://user-images.githubusercontent.com/71558799/93671485-6c184600-fa71-11ea-9175-e668d37d9415.png)
 
 
+## Git Checkout
+A "checkout" is the act of switching between different versions of a target entity. 
+The git checkout command operates upon three distinct entities: files, commits, and branches. 
+In addition to the definition of "checkout" the phrase "checking out" 
+is commonly used to imply the act of executing the git checkout command.
+The git checkout command lets you navigate between the branches created by git branch. 
+Checking out a branch updates the files in the working directory to match the version stored 
+in that branch, and it tells Git to record all new commits on that branch. 
+Think of it as a way to select which line of development you’re working on.
+![git-checkout](https://user-images.githubusercontent.com/13598741/93671696-d60d0b80-fac2-11ea-967b-c8dbe510f3e9.png)
+
+
+## Git Push
+Use git push to push commits made on your local branch to a remote repository.
+The git push command takes two arguments:
+
+A remote name, for example, origin
+A branch name, for example, master
+For example:
+
+git push  <REMOTENAME> <BRANCHNAME> 
+As an example, you usually run git push origin master to push your 
+local changes to your online repository.
+
+## Git Pull
+git pull updates your current local working branch, and all of the remote tracking branches. 
+It's a good idea to run git pull regularly on the branches you are working on locally.
+
+Without git pull, (or the effect of it,) your local branch wouldn't have any of the updates that are present 
+on the remote.
+A git pull is one of the 4 remote operations within Git. Without running git pull, 
+your local repository will never be updated with changes from the remote. git pull should 
+be used every day you interact with a repository with a remote, at the minimum. 
+That's why git pull is one of the most used Git commands.
+
+![git push and pull](https://user-images.githubusercontent.com/13598741/93671810-c641f700-fac3-11ea-953d-5e7e5351089f.jpg)
+
+## Remote ADD
+To add a new remote, use the git remote add command on the terminal, 
+in the directory your repository is stored at.
+
+The git remote add command takes two arguments:
+
+A remote name, for example, origin
+A remote URL, for example, https://[hostname]/user/repo.git
+
+For example:
+
+For example:
+
+$ git remote add origin https://hostname/user/repo.git
+### Set a new remote
+
+$ git remote -v
+### Verify new remote
+> origin  https://hostname/user/repo.git (fetch)
+> origin  https://hostname/user/repo.git (push)
+
+![Git-remote-add](https://user-images.githubusercontent.com/13598741/93671936-9a734100-fac4-11ea-961a-637b99a7956d.png)
+
+## Remote Remove
+To remove a remote, navigate to the directory your repository is stored at, and use the 
+git remote rm 
+(or git remote remove) command followed by the remote name:
+git remote rm <remote-name>
+Copy
+For example, to remove remote named testing, you would type:
+
+git remote rm testing
+git remote rm removes all references to the remote repository. It does not remove the 
+repository from 
+the remote server.
+
+To verify that the remote was successfully removed, use the git remote command to list the 
+remote connections:
+
+git remote -v  
+The output will look something like this:
+
+origin	https://github.com/user/repo_name.git (fetch)
+origin	https://github.com/user/repo_name.git (push)
+What the git remote rm command does is removing the entries about the remote repository
+ from the .git/config file.
+ 
+![image](https://user-images.githubusercontent.com/13598741/93672085-cd6a0480-fac5-11ea-9ffa-78c806163e0b.png)
+
+
+
+
 
 
 
