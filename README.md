@@ -47,6 +47,15 @@ lost when the next regular release occurs.
   changes since both repositories are still connected.
   <img width="582" alt="Fork" src="https://user-images.githubusercontent.com/13598741/93671169-52512000-fabe-11ea-884c-4cbaa88dfed3.PNG">
 
+## Git Branch
+A branch is a parallel version of a repository. It is contained within the repository,
+ but does not affect the primary or master branch allowing you to work freely without 
+ disrupting the "live" version. When you've made the changes you want to make, you can merge
+  your branch back into the master branch to publish your changes.
+  ![branch](https://user-images.githubusercontent.com/71558799/93671285-a97bd400-fa6f-11ea-9551-d72191af203c.png)
+
+
+
 
 
  
