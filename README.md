@@ -85,6 +85,30 @@ Think of it as a way to select which line of development you’re working on.
 ![git-checkout](https://user-images.githubusercontent.com/13598741/93671696-d60d0b80-fac2-11ea-967b-c8dbe510f3e9.png)
 
 
+## Git Push
+Use git push to push commits made on your local branch to a remote repository.
+The git push command takes two arguments:
+
+A remote name, for example, origin
+A branch name, for example, master
+For example:
+
+git push  <REMOTENAME> <BRANCHNAME> 
+As an example, you usually run git push origin master to push your 
+local changes to your online repository.
+
+## Git Pull
+git pull updates your current local working branch, and all of the remote tracking branches. 
+It's a good idea to run git pull regularly on the branches you are working on locally.
+
+Without git pull, (or the effect of it,) your local branch wouldn't have any of the updates that are present 
+on the remote.
+A git pull is one of the 4 remote operations within Git. Without running git pull, 
+your local repository will never be updated with changes from the remote. git pull should 
+be used every day you interact with a repository with a remote, at the minimum. 
+That's why git pull is one of the most used Git commands.
+
+![git push and pull](https://user-images.githubusercontent.com/13598741/93671810-c641f700-fac3-11ea-953d-5e7e5351089f.jpg)
 
 
 
