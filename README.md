@@ -73,6 +73,19 @@ them into another. This often happens as a "pull request" (which can be thought 
 ![merge](https://user-images.githubusercontent.com/71558799/93671485-6c184600-fa71-11ea-9175-e668d37d9415.png)
 
 
+## Git Checkout
+A "checkout" is the act of switching between different versions of a target entity. 
+The git checkout command operates upon three distinct entities: files, commits, and branches. 
+In addition to the definition of "checkout" the phrase "checking out" 
+is commonly used to imply the act of executing the git checkout command.
+The git checkout command lets you navigate between the branches created by git branch. 
+Checking out a branch updates the files in the working directory to match the version stored 
+in that branch, and it tells Git to record all new commits on that branch. 
+Think of it as a way to select which line of development you’re working on.
+![git-checkout](https://user-images.githubusercontent.com/13598741/93671696-d60d0b80-fac2-11ea-967b-c8dbe510f3e9.png)
+
+
+
 
 
 
