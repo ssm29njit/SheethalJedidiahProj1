@@ -184,8 +184,12 @@ Checks are different from statuses in that they provide line annotations, more d
 ![image](https://user-images.githubusercontent.com/71558799/93674185-8524f500-fa79-11ea-9c8c-7d08cf13c921.png)
 
 
+## Git Master Branch
+The default development branch. Whenever you create a Git repository, a branch named "master" is created,
+ and becomes the active branch. In most cases, this contains the local development, though that is 
+ purely by convention and is not required.
 
-
+![gitmasterbranch](https://user-images.githubusercontent.com/71558799/93677253-b3570480-fa7a-11ea-8e6d-a25083589bc7.PNG)
 
 
 
