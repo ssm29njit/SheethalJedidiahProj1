@@ -25,3 +25,13 @@ Hotfix branches are used to create emergency fixes
 They are branched directly from a tagged release in the master branch, and when finished are 
 merged back into both master and develop to make sure that the hotfix isn’t accidentally 
 lost when the next regular release occurs.
+
+
+## Git Repository
+
+ Repository is like a folder for your project. Your project's repository contains all 
+ of your project's files and stores each file's revision history.
+ You can also discuss and manage your project's work within the repository.
+ 
+ 
+ 
