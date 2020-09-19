@@ -39,5 +39,14 @@ lost when the next regular release occurs.
  everything in the repository.
  <img width="437" alt="clone" src="https://user-images.githubusercontent.com/13598741/93671087-c2ab7180-fabd-11ea-886f-1b08154c1d77.PNG">
  
+ ## Git Fork
+ A fork is a personal copy of another user's repository that lives on your 
+ account. Forks allow you to freely make changes to a project without 
+ affecting the original upstream repository. You can also open a pull request
+  in the upstream repository and keep your fork synced with the latest 
+  changes since both repositories are still connected.
+  <img width="582" alt="Fork" src="https://user-images.githubusercontent.com/13598741/93671169-52512000-fabe-11ea-884c-4cbaa88dfed3.PNG">
+
+
 
  
