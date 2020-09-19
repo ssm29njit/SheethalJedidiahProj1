@@ -159,6 +159,16 @@ What the git remote rm command does is removing the entries about the remote rep
  
 ![image](https://user-images.githubusercontent.com/13598741/93672085-cd6a0480-fac5-11ea-9ffa-78c806163e0b.png)
 
+## Git remote show
+Gives some information about the remote <name of branch/commit>
+This command shows which branch is automatically pushed to when you run git push while on certain branches.
+ It also shows you which remote branches on the server you don’t yet have, which remote branches you have 
+ that have been removed from the server, and multiple local branches that are able to merge automatically 
+ with their remote-tracking branch when you run git pull.
+ 
+![remoteshow](https://user-images.githubusercontent.com/71558799/93672319-0da29600-fa78-11ea-8239-ca8169f34f9c.png)
+![git-remote](https://user-images.githubusercontent.com/71558799/93672391-7be75880-fa78-11ea-9981-9d6bd54a5b0b.png)
+
 
 
 
