@@ -209,5 +209,8 @@ The Makefile will pull down any required packages or dependencies, then it will 
  and launch the application.
 
 
-
+## References
+https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes
+https://www.atlassian.com/git/tutorials/using-branches
+https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project
  
