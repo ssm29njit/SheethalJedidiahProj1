@@ -178,9 +178,10 @@ Checks
 Statuses
 Checks are different from statuses in that they provide line annotations, more detailed messaging,
  and are only available for use with GitHub Apps.
- Status: 
+#### Status: 
  ![image](https://user-images.githubusercontent.com/71558799/93674703-b00f4900-fa79-11ea-85d0-37c73d533e12.png)
- Checks:
+ 
+#### Checks:
 ![image](https://user-images.githubusercontent.com/71558799/93674185-8524f500-fa79-11ea-9c8c-7d08cf13c921.png)
 
 
