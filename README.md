@@ -6,7 +6,6 @@ Git Collaboration done by Sheethal and Jedidiah
   <a target="_blank"href="https://www.linkedin.com/in/jedidiahjohn/"><img src="https://img.shields.io/badge/Jedidiah linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
 ## GitFlow 
 Gitflow is a branching model for Git. 
 It is very well suited to collaboration and scaling the development team.
@@ -75,7 +74,8 @@ The Makefile will pull down any required packages or dependencies, then it will 
 A branch is a parallel version of a repository. It is contained within the repository,
  but does not affect the primary or master branch allowing you to work freely without 
  disrupting the "live" version. When you've made the changes you want to make, you can merge
-  your branch back into the master branch to publish your changes.
+ your branch back into the master branch to publish your changes.
+  
   ![branch](https://user-images.githubusercontent.com/71558799/93671285-a97bd400-fa6f-11ea-9551-d72191af203c.png)
 
 
