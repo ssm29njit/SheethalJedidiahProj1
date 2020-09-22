@@ -6,8 +6,7 @@ Git Collaboration done by Sheethal and Jedidiah.
 2. Git commands and terminology consist of various terminologies and their examples...[Know More](Gitcommandsandterminology.md) 
 3. In productivity and competitiveness the Git is a great medium to save your work and collaborate code changes in a group. Git can be accessed anywhere in the
    world, making...[Read More](productivityandcompetitiveness.md)
-4. About Us: This Git Collaboration done by Sheethal and Jedidiah...[Know Us](knowus.md)
-
+4. About Us: This Git Collaboration done by Sheethal and Jedidiah...[Know More](knowus.md) 
 
 ## References
 :computer: https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes
