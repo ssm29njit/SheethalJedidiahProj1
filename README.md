@@ -1,4 +1,4 @@
-# SheethalJedidiahProj1
+# Git Collaburation
 Git Collaboration done by Sheethal and Jedidiah.
 
 ## References
