@@ -3,7 +3,7 @@ Git Collaboration done by Sheethal and Jedidiah.
 
 ### Contents
 1. Gitflow is a branching model for Git...[Read More](GitFlow.md)
-2. Git commands and terminology consist of various terminologies and their examples [Know More](productivity and competitiveness.md) 
+2. Git commands and terminology consist of various terminologies and their examples...[Know More](Gitcommandsandterminology.md) 
 3. In productivity and competitiveness the Git is a great medium to save your work and collaborate code changes in a group. Git can be accessed anywhere in the
    world, making...[Read More](productivity and competitiveness.md)
 4. About Us: This Git Collaboration done by Sheethal and Jedidiah...[Know Us](know us.md)
