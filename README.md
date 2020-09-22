@@ -1,5 +1,5 @@
 # SheethalJedidiahProj1
-Git Collaboration Homework
+Git Collaboration done by Sheethal and Jedidiah
 
 ## GitFlow 
 Gitflow is a branching model for Git. 
@@ -26,6 +26,24 @@ They are branched directly from a tagged release in the master branch, and when 
 merged back into both master and develop to make sure that the hotfix isn’t accidentally 
 lost when the next regular release occurs.
 
+## Git, Docker, Continuous Integration Benefits
+
+Git is a great medium to save your work and collaborate code changes in a group. Git can be accessed anywhere in the
+world, making today's global teams's collaboration much easier. Recently, more and more companies are promoting Agile 
+work culture, where continuous integration is the key. The benefits of continuous integration includes customer 
+satisfaction, fault isolation, smaller backlog, increase team transparency, More test reliability. In this, customer 
+satisfaction is the key, when the customer feels involved in the development process they can provide meaningful feedback.
+Sometimes customers are not able to predict all the features necessary, and all the final workflows at the requirement 
+gathering phase, in a continuous integration method they are able to provide input based on each iteration of code change.
+Customers can correct minute mistakes, or any gap in programmer's understanding of the requirement before the final 
+product is released. Git can be a great medium for collaboration, because when these bug fixes are necessary, and the 
+teams are large or widespread, each person can upload their own addition of features as a new branch, and each branch can
+be corrected for fixing bugs. The branching system in Git is an excellent way for releasing versions of code as well. 
+Before code integration into Github, it is best practice to test your own code change on Docker. 
+The Makefile will pull down any required packages or dependencies, then it will clone the GitHub repo, build,
+ and launch the application.
+ 
+ 
 
 ## Git Repository
 
@@ -51,7 +69,8 @@ lost when the next regular release occurs.
 A branch is a parallel version of a repository. It is contained within the repository,
  but does not affect the primary or master branch allowing you to work freely without 
  disrupting the "live" version. When you've made the changes you want to make, you can merge
-  your branch back into the master branch to publish your changes.
+ your branch back into the master branch to publish your changes.
+  
   ![branch](https://user-images.githubusercontent.com/71558799/93671285-a97bd400-fa6f-11ea-9551-d72191af203c.png)
 
 
@@ -178,9 +197,10 @@ Checks
 Statuses
 Checks are different from statuses in that they provide line annotations, more detailed messaging,
  and are only available for use with GitHub Apps.
- Status: 
+#### Status: 
  ![image](https://user-images.githubusercontent.com/71558799/93674703-b00f4900-fa79-11ea-85d0-37c73d533e12.png)
- Checks:
+ 
+#### Checks:
 ![image](https://user-images.githubusercontent.com/71558799/93674185-8524f500-fa79-11ea-9c8c-7d08cf13c921.png)
 
 
@@ -191,23 +211,14 @@ The default development branch. Whenever you create a Git repository, a branch n
 
 ![gitmasterbranch](https://user-images.githubusercontent.com/71558799/93677253-b3570480-fa7a-11ea-8e6d-a25083589bc7.PNG)
 
-## Git, Docker, Continuous Integration Benefits
 
-Git is a great medium to save your work and collaborate code changes in a group. Git can be accessed anywhere in the
-world, making today's global teams's collaboration much easier. Recently, more and more companies are promoting Agile 
-work culture, where continuous integration is the key. The benefits of continuous integration includes customer 
-satisfaction, fault isolation, smaller backlog, increase team transparency, More test reliability. In this, customer 
-satisfaction is the key, when the customer feels involved in the development process they can provide meaningful feedback.
-Sometimes customers are not able to predict all the features necessary, and all the final workflows at the requirement 
-gathering phase, in a continuous integration method they are able to provide input based on each iteration of code change.
-Customers can correct minute mistakes, or any gap in programmer's understanding of the requirement before the final 
-product is released. Git can be a great medium for collaboration, because when these bug fixes are necessary, and the 
-teams are large or widespread, each person can upload their own addition of features as a new branch, and each branch can
-be corrected for fixing bugs. The branching system in Git is an excellent way for releasing versions of code as well. 
-Before code integration into Github, it is best practice to test your own code change on Docker. 
-The Makefile will pull down any required packages or dependencies, then it will clone the GitHub repo, build,
- and launch the application.
-
-
-
+## References
+https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes
+https://www.atlassian.com/git/tutorials/using-branches
+https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project
  
+<h2  align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Reach Us On</h2>
+<p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/sheethal-mathew-4579a0a5/"><img src="https://img.shields.io/badge/Sheethal linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/jedidiahjohn/"><img src="https://img.shields.io/badge/Jedidiah linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
