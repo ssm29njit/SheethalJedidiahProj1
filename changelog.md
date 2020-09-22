@@ -11,7 +11,7 @@ Important changes to the project are stored here
 
 [1.1.0] - 2020-09-20
 
-###Changed 
+### Changed 
 
 - Master branch was changed.
 
