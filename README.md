@@ -1,5 +1,5 @@
 # SheethalJedidiahProj1
-Git Collaboration done by Sheethal and Jedidiah
+Git Collaboration done by Sheethal and Jedidiah.
 
 ## References
 https://developer.okta.com/blog/2018/09/27/test-your-github-repositories-with-docker-in-five-minutes
