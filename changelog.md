@@ -6,8 +6,8 @@ Important changes to the project are stored here
 ### Added
 - created changelog.md
 
-### Changed
-- Pulling changelog
+### Removed
+- Previous addition to changelog was removed
 
 [1.1.0] - 2020-09-20
 
