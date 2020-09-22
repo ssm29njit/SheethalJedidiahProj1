@@ -1,4 +1,4 @@
-# Git Collaburation
+# Git Collaboration
 Git Collaboration done by Sheethal and Jedidiah.
 
 ### Contents
